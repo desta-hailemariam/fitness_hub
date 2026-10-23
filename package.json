@@ -1,0 +1,16 @@
+﻿{
+  "name": "habesha-fit-app",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Habesha Fit App monorepo coordinator",
+  "scripts": {
+    "dev": "echo \"Run frontend and backend dev servers from their respective workspaces once initialized\""
+  },
+  "keywords": [
+    "fitness",
+    "gym-companion",
+    "habesha-fit"
+  ],
+  "author": "",
+  "license": "ISC"
+}
